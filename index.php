@@ -1,11 +1,4 @@
 <?php
-//**********************************************//
-// -> Effect Web                                //
-// -> Powered by Erick-Master                   //
-// -> CTM TEAM Softwares                        //
-// -> www.ctmts.com.br                          //
-//**********************************************//
-
 define("SESSION_NAME", "df5A279HCERUxcpA");
 
 ob_start();
